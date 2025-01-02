@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.js": "javascript",
+        "*.scss": "scss",
+        "gtk.h": "c",
+        "window.h": "c",
+        "buttons.h": "c",
+        "titlebar.h": "c",
+        "figureselect.h": "c",
+        "sidebar.h": "c",
+        "loadcss.h": "c",
+        "shapestructure.h": "c",
+        "load.h": "c",
+        "redo.h": "c",
+        "cmath": "c"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/Users/trive/StudioProjects/flutter_app/windows/runner"
+}

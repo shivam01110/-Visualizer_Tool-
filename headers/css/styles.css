@@ -1,0 +1,44 @@
+window {
+    background: #e9f4f5
+}
+
+/* CSS for buttons */
+
+.btn {
+    padding-left: 18px;
+    padding-right: 18px;
+    border-radius: 20px;
+}
+
+.btn:focus,
+.color-chooser-btn {
+    outline: none;
+}
+
+headerbar.titlebar {
+    min-height: 40px;
+    font-size: 20px;
+    color: black;
+    background: radial-gradient(circle, #eeaeca 0%, #94bbe9 100%);
+}
+
+.bottom-bar {
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    padding: 12px;
+}
+
+.head-label {
+    font-weight: 600;
+    font-size: 16px;
+    font-family: cursive;
+}
+
+.sidebar {
+    font-weight: bold;
+    background-color: rgba(148, 187, 233, .2);
+}
+
+.x-coordinate,.y-coordinate{
+  font-size: 16px;
+  padding-left: 12px;
+}
