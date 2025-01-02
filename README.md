@@ -39,9 +39,10 @@ A powerful Visualization tool that allows users to draw various shapes based on 
 
 A big thank you to the following individuals for their contributions to this project:
 
-- [Shreyansh Gupta](mailto:221210099@nitdelhi.ac.in) ( Myself )
-- [Utkarsh Trivedi](mailto:221210114@nitdelhi.ac.in)
 - [Shivam Kumar](mailto:221210098@nitdelhi.ac.in)
+- [Shreyansh Gupta](mailto:221210099@nitdelhi.ac.in)
+- [Utkarsh Trivedi](mailto:221210114@nitdelhi.ac.in)
+
 
 ## Contact
 
